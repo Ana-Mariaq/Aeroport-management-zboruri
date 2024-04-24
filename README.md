@@ -1,4 +1,5 @@
 **Proiect management zboruri**
+
 **Descriere:**
 
 Acest proiect este o aplicație simplă pentru gestionarea zborurilor la un aeroport. Este scrisă în limbajul Bash și folosește un fișier CSV pentru a stoca și gestiona informațiile despre zboruri.
